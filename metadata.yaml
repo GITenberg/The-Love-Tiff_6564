@@ -1,0 +1,34 @@
+_repo: The-Love-Tiff_6564
+_version: 0.0.1
+alternative_title: Le Dépit-amoureux. English
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Molière, Jean Baptiste Poquelin de
+    - Poquelin de Molière, Jean Baptiste
+    - Moliere
+    - Poquelin, Jean-Baptiste
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama (Comedy) -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Molière, 1622-1673 -- Translations into English'
+- GITenberg
+title: The Love-Tiff
+url: http://www.gutenberg.org/ebooks/6564
